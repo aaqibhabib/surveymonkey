@@ -26,7 +26,7 @@ angular.module('app.home', [
   }, {
     type: 'checkbox',
     question: 'What did you order? (Check all that apply)',
-    options: 'Soup, Salad, Entree, Desert'
+    options: 'Soup, Salad, Entree, Dessert'
   }, {
     type: 'radio',
     question: 'Would you recommend this resturant?',
